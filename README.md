@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julián David Pineda Betancurth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hola 👋, soy Julián David Pineda Betancurth</h1>
+<h3 align="center">Desarrollador FullStack </h3>
 
 - 🔭 Actualmente estoy trabando **Almacenamiento de datos de exámenes médicos para pacientes veterinarios**
 
