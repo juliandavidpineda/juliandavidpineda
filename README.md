@@ -6,7 +6,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:combm77@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://flowcv.com/resume/nkb4og1ujbqd" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/resume.png" alt="CV" height="30" width="40" />
@@ -19,7 +19,7 @@ Desarrollador FullStack con una trayectoria única que combina **8+ años de exp
 
 ## 💼 Proyecto Destacado
 
-### **Sistema de Gestión de citas Médica**
+### **Sistema de Gestión de Citas Médicas**
 Aplicación web full-stack para administración de pacientes, citas y reportes financieros en consultorios médicos.
 
 - **Frontend:** React, Context API, CSS Grid, JavaScript
@@ -45,9 +45,15 @@ Aplicación web full-stack para administración de pacientes, citas y reportes f
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 📊 Estadísticas
+## 📈 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliandavidpineda&show_icons=true&locale=en&layout=compact&theme=radical" alt="juliandavidpineda" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juliandavidpineda&show_icons=true&theme=radical" alt="juliandavidpineda" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliandavidpineda&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliandavidpineda&show_icons=true&theme=radical" alt="Estadísticas generales" />
 </p>
+
+## 📫 ¡Hablemos!
+
+¿Trabajas en proyectos innovadores donde la perspectiva comercial y técnica se unan? Me encantaría conversar sobre cómo puedo contribuir a tu equipo.
+
+**Email:** combm77@gmail.com
