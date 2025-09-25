@@ -19,8 +19,8 @@ Desarrollador FullStack con una trayectoria única que combina **8+ años de exp
 
 ## 💼 Proyecto Destacado
 
-### **Sistema de Gestión Médica Veterinaria**
-Aplicación web full-stack para administración de pacientes, citas y reportes financieros en consultorios veterinarios.
+### **Sistema de Gestión de citas Médica**
+Aplicación web full-stack para administración de pacientes, citas y reportes financieros en consultorios médicos.
 
 - **Frontend:** React, Context API, CSS Grid, JavaScript
 - **Backend:** Flask, Python, SQLAlchemy, JWT
