@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/juliandavidpinedabetancurth" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:combm77@gmail.com" target="blank">
+  <a href="mailto:combm77@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Julián,%20me%interesa%20contactarte" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://flowcv.com/resume/nkb4og1ujbqd" target="blank">
@@ -29,31 +29,30 @@ Aplicación web full-stack para administración de pacientes, citas y reportes f
 ## 🔧 Tecnologías
 
 ### **Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/docs/getting-started.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)
 
 ### **Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
 ### **Herramientas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/docs/getting-started)
 
-## 📈 Mis Estadísticas
+## 📊 Lenguajes Más Utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliandavidpineda&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juliandavidpineda&show_icons=true&theme=radical" alt="Estadísticas generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliandavidpineda&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ## 📫 ¡Hablemos!
 
 ¿Trabajas en proyectos innovadores donde la perspectiva comercial y técnica se unan? Me encantaría conversar sobre cómo puedo contribuir a tu equipo.
 
-**Email:** combm77@gmail.com
+**Email:** [combm77@gmail.com](mailto:combm77@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Julián,%20me%20interesa%20contactarte)
