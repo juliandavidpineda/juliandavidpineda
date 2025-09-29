@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador FullStack con una trayectoria única que combina **8+ años de experiencia comercial** en gestión de proyectos y análisis de mercado con habilidades técnicas en **React, Python y desarrollo de APIs**. Especializado en crear soluciones web que resuelven problemas reales del usuario final.
+Desarrollador FullStack con una trayectoria única que combina **+8 años de experiencia comercial** en gestión de proyectos y análisis de mercado con habilidades técnicas en **React, Python y desarrollo de APIs**. Especializado en crear soluciones web que resuelven problemas reales del usuario final.
 
 ## 💼 Proyecto Destacado
 
@@ -24,7 +24,7 @@ Aplicación web full-stack para administración de pacientes, citas y reportes f
 
 - **Frontend:** React, Context API, CSS Grid, JavaScript
 - **Backend:** Flask, Python, SQLAlchemy, JWT
-- **Features:** Calendario interactivo, CRUD completo, reportes automatizados
+- **Features:** Calendario interactivo, CRUD completo, reportes automatizados de finanzas.
 
 ## 🔧 Tecnologías
 
