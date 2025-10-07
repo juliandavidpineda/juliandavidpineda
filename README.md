@@ -51,8 +51,8 @@ Aplicación web full-stack para administración de pacientes, citas y reportes f
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliandavidpineda&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
-## 📫 ¡Hablemos!
+## 📫 ¡Hablemos! 
 
-¿Trabajas en proyectos innovadores donde la perspectiva comercial y técnica se unan? Me encantaría conversar sobre cómo puedo contribuir a tu equipo
+¿Trabajas en proyectos innovadores donde la perspectiva comercial y técnica se unan? Me encantaría conversar sobre cómo puedo contribuir a tu equipo.
 
 **Email:** [combm77@gmail.com](mailto:combm77@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Julián,%20me%20interesa%20contactarte)
