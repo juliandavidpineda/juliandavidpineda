@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Julián David Pineda Betancurth</h1>
-<h3 align="center">Desarrollador FullStack | React | Python | Flask</h3>
+<h3 align="center">Desarrollador FullStack | React | Python | Flask | JavaScritp </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/juliandavidpinedabetancurth" target="blank">
